@@ -1,0 +1,6 @@
+java c++ python javascript
+java hadoop zookeeper
+hadoop spark
+spark scala python javascript
+python java
+mysql oracle
